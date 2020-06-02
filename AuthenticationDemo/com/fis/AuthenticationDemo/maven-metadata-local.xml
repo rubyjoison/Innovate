@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.fis</groupId>
+  <artifactId>AuthenticationDemo</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200527194300</lastUpdated>
+  </versioning>
+</metadata>
